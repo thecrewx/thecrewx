@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**oscer07/oscer07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=500&lines=Kevin;Software+Developer;Cybersecurity+Enthusiast)](https://github.com/oscer07)
 
-Here are some ideas to get you started:
+📍 France 🇫🇷 &nbsp;|&nbsp; <a href="https://oscerkevin.netlify.app">Portfolio</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+<div align="center">
+
+### My Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp,php,go,rust,java,docker,git" />
+
+</div>
+
+<br>
+
+<br>
+
+<div align="center">
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=oscer07&show_icons=true&hide_border=true&theme=dark" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscer07&layout=compact&hide_border=true&theme=dark" height="165"/>
+
+</div>
