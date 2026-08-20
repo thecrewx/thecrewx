@@ -1,58 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="120" viewBox="0 0 500 120">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="80">
   <defs>
-    <!-- Metallic base gradient -->
-    <linearGradient id="metal" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8a8a8a"/>
-      <stop offset="20%" stop-color="#ffffff"/>
-      <stop offset="40%" stop-color="#b0b0b0"/>
-      <stop offset="60%" stop-color="#ffffff"/>
-      <stop offset="80%" stop-color="#8a8a8a"/>
-      <stop offset="100%" stop-color="#5a5a5a"/>
-    </linearGradient>
-    <!-- Sharp highlight for shine -->
-    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
-      <stop offset="45%" stop-color="rgba(255,255,255,0.9)"/>
-      <stop offset="55%" stop-color="rgba(255,255,255,0.9)"/>
-      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0000" />
+      <stop offset="50%" stop-color="#00ff00" />
+      <stop offset="100%" stop-color="#0000ff" />
     </linearGradient>
   </defs>
-
-  <!-- Main text with metallic gradient -->
-  <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle"
-        font-family="'Fira Code', monospace" font-weight="600" font-size="24"
-        fill="url(#metal)">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+        font-family="Fira Code, monospace" font-weight="600" font-size="24" 
+        fill="url(#grad)">
     My welcome to github
-  </text>
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-        font-family="'Fira Code', monospace" font-weight="600" font-size="24"
-        fill="url(#metal)">
-    kevin
-  </text>
-  <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle"
-        font-family="'Fira Code', monospace" font-weight="600" font-size="24"
-        fill="url(#metal)">
-    Cybersecurity Enthusiast
-  </text>
-
-  <!-- Overlay shine band on top -->
-  <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle"
-        font-family="'Fira Code', monospace" font-weight="600" font-size="24"
-        fill="url(#shine)">
-    My welcome to github
-  </text>
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-        font-family="'Fira Code', monospace" font-weight="600" font-size="24"
-        fill="url(#shine)">
-    kevin
-  </text>
-  <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle"
-        font-family="'Fira Code', monospace" font-weight="600" font-size="24"
-        fill="url(#shine)">
-    Cybersecurity Enthusiast
   </text>
 </svg>
-<br>
 
 <div align="center">
 
