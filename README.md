@@ -8,7 +8,7 @@
 
 ### My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp,php,go,rust,java,docker,bash,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp,php,go,rust,java,docker,bash,lua,typescript,tailwind,git" />
 
 <br><br>
 
