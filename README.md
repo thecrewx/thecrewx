@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thecrewx/thecrewx/main/shine.svg" width="600" alt="Welcome" />
+<img src="https://raw.githubusercontent.com/thecrewx/thecrewx/main/shine-animated.svg" width="600" alt="Welcome" />
 
 📍 France 🇫🇷 &nbsp;|&nbsp; <a href="https://oscerkevin.netlify.app">Portfolio</a>
 
