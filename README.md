@@ -1,22 +1,56 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FFD700,C0C0C0,CD7F32&multiline=true&center=true&vCenter=true&width=600&lines=Bonjour,+welcome+to+github)](https://github.com/thecrewx)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-📍 France 🇫🇷 &nbsp;|&nbsp; <a href="https://thecrewx.netlify.app">Portfolio</a>
+</div>
 
-<br><br>
+<br>
 
-### My Stack
+## About Me
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp,php,go,rust,java,docker,bash,lua,typescript,tailwind,git" />
+My name is **thecrewx**, and I'm a Software Developer based in France 🇫🇷. I'm passionate about building clean, efficient tools — from browser extensions to CLI utilities to full applications — and I enjoy the process of turning a rough idea into something people actually use.
 
-<br><br>
+When I'm coding, I like keeping things minimal: fast, functional, no bloat.
 
-### GitHub Stats
+**Objective:** Open to interesting collaborations, freelance work, and opportunities where I can build things that solve real problems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thecrewx&show_icons=true&hide_border=true&theme=dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrewx&layout=compact&hide_border=true&theme=dark" height="165" />
-</p>
+**Contact:** [Portfolio](https://thecrewx.netlify.app)
+
+<br>
+
+<div align="center">
+
+## Let's Connect
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/-thecrewx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thecrewx)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thecrewx.netlify.app)
+
+</div>
+
+
+
+<div align="center">
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=thecrewx&show_icons=true&hide_border=true&theme=dark" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrewx&layout=compact&hide_border=true&theme=dark" height="165" />
 
 </div>
