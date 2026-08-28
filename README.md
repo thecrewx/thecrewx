@@ -29,7 +29,7 @@ When I'm coding, I like keeping things minimal: fast, functional, no bloat.
 
 **Objective:** Open to interesting collaborations, freelance work, and opportunities where I can build things that solve real problems.
 
-**Contact:** [Portfolio](https://thecrewx.netlify.app)
+**Site:** [Portfolio](https://thecrewx.netlify.app)
 
 <br>
 
@@ -41,6 +41,8 @@ When I'm coding, I like keeping things minimal: fast, functional, no bloat.
 
 [![GitHub](https://img.shields.io/badge/-thecrewx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thecrewx)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thecrewx.netlify.app)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1509850988788322304) 
+[![Instagram](https://img.shields.io/badge/-the__crewxo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_crewxo/) 
 
 </div>
 
