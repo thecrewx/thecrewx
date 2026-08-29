@@ -48,12 +48,15 @@ When I'm coding, I like keeping things minimal: fast, functional, no bloat.
 </div>
 
 
-
+<br>
 <div align="center">
-
 ## GitHub Stats
-
+ 
 <img src="https://github-readme-stats.vercel.app/api?username=thecrewx&show_icons=true&hide_border=true&theme=dark" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrewx&layout=compact&hide_border=true&theme=dark" height="165" />
-
+<br><br>
+ 
+## Contribution Snake
+ 
+<img src="https://raw.githubusercontent.com/thecrewx/thecrewx/output/github-contribution-grid-snake-dark.gif" alt="Snake eating my GitHub contribution graph" />
 </div>
