@@ -50,6 +50,7 @@ When I'm coding, I like keeping things minimal: fast, functional, no bloat.
 
 <br>
 <div align="center">
+ 
 ## GitHub Stats
  
 <img src="https://github-readme-stats.vercel.app/api?username=thecrewx&show_icons=true&hide_border=true&theme=dark" height="165" />
