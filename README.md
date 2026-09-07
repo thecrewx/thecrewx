@@ -1,63 +1,47 @@
-<div align="center">
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
-## About Me
-
-My name is **thecrewx**, and I'm a Software Developer based in France 🇫🇷. I'm passionate about building clean, efficient tools — from browser extensions to CLI utilities to full applications — and I enjoy the process of turning a rough idea into something people actually use.
-
-When I'm coding, I like keeping things minimal: fast, functional, no bloat.
-
-**Objective:** Open to interesting collaborations, freelance work, and opportunities where I can build things that solve real problems.
-
-**Site:** [Portfolio](https://thecrewx.netlify.app)
-
-<br>
-
-<div align="center">
-
-## Let's Connect
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/-thecrewx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thecrewx)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thecrewx.netlify.app)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1509850988788322304) 
-[![Instagram](https://img.shields.io/badge/-the__crewxo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_crewxo/) 
-
-</div>
-
-
-<br>
-<div align="center">
- 
-## GitHub Stats
- 
-<img src="https://github-readme-stats.vercel.app/api?username=thecrewx&show_icons=true&hide_border=true&theme=dark" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrewx&layout=compact&hide_border=true&theme=dark" height="165" />
-<br><br>
- 
-## Contribution Snake
- 
-<img src="https://raw.githubusercontent.com/thecrewx/thecrewx/output/github-contribution-grid-snake-dark.gif" alt="Snake eating my GitHub contribution graph" />
-</div>
+<h1 align="center">welcome to github</h1>
+<p align="center">
+<a href="https://thecrewx.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/thecrewx?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=thecrewx&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+<hr />
+<h2>About Me</h2>
+<p>I'm <b>thecrewx</b>, a Crew Developer.</p>
+<p>I build clean, efficient tools — browser extensions, CLI utilities, and full applications — and I enjoy turning a rough idea into something people actually use.</p>
+<ul>
+<li>⚡ Minimal by default: fast, functional, no bloat</li>
+<li>🧩 Comfortable across the stack, happiest close to the tooling layer</li>
+<li>🛠️ Shipping small products that solve real problems</li>
+</ul>
+<p><b>Objective</b> — open to interesting collaborations, freelance work, and opportunities where I can build things that matter.</p>
+<hr />
+<h2 align="center">Tech Stack</h2>
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,tailwind,vite,docker,rust,c,java,git&theme=dark" alt="Tech stack" /></p>
+<hr />
+<h2 align="center">Let's Connect</h2>
+<p align="center">
+<a href="https://thecrewx.netlify.app/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Website" /></a>
+<a href="mailto:crimsonkix@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.com/users/1509850988788322304"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+<hr />
+<h2 align="center">GitHub Stats</h2>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecrewx&theme=github_dark" height="170" alt="Profile summary" /></p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecrewx&theme=github_dark" height="155" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thecrewx&theme=github_dark" height="155" alt="Repos per language" />
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecrewx&theme=github_dark" height="155" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thecrewx&theme=github_dark&utcOffset=2" height="155" alt="Productive time" />
+</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=thecrewx&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&stroke=30363D&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" height="140" alt="Streak stats" /></p>
+<!-- FALLBACK: original github-readme-stats cards. The public instance is often rate-limited. To retry, uncomment and bump the v= number to bust GitHub's camo cache. Best long-term fix is self-hosting github-readme-stats on your own Vercel with a PAT, then replacing the host below.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thecrewx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&v=2" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrewx&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&v=2" height="165" alt="Top languages" />
+</p>
+-->
+<hr />
+<p align="center"><sub>Built with a bias for simplicity. — <a href="https://github.com/thecrewx/">thecrewx</a></sub></p>
+​
