@@ -1,6 +1,6 @@
 <h1 align="center">welcome to github</h1>
 <p align="center">
-<a href="https://thecrewx.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://thecrewx.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/thecrewx?tab=repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=thecrewx&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -20,7 +20,7 @@
 <hr />
 <h2 align="center">Let's Connect</h2>
 <p align="center">
-<a href="https://thecrewx.netlify.app/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Website" /></a>
+<a href="https://thecrewx.pages.dev/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Website" /></a>
 <a href="mailto:crimsonkix@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://discord.com/users/1509850988788322304"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
