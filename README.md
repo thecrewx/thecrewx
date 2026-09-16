@@ -16,7 +16,7 @@
 <p><b>Objective</b> — open to interesting collaborations, freelance work, and opportunities where I can build things that matter.</p>
 <hr />
 <h2 align="center">Tech Stack</h2>
-<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,tailwind,vite,docker,rust,c,java,git&theme=dark" alt="Tech stack" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,tailwind,php,c,java,git&theme=dark" alt="Tech stack" /></p>
 <hr />
 <h2 align="center">Let's Connect</h2>
 <p align="center">
